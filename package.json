@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "author": "brentvatne@gmail.com",
-  "dependencies": {
+  "peerdependencies": {
     "babel-plugin-syntax-trailing-function-commas": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "babel-preset-stage-0": "^6.5.0",
